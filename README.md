@@ -1,2 +1,4 @@
 # Hello-World
-hello world starting with github
+Hi Humans,
+
+Here is Bharat who is just starting to learn the github uses
